@@ -17,4 +17,4 @@
 
 ## 결과물 ##
 
-![생존요리 유튜브 채널](https://www.youtube.com/@survival-cooking)
+[![생존요리 유튜브 채널](./images/banner-github.png)](https://www.youtube.com/@survival-cooking)
