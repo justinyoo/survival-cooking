@@ -12,3 +12,4 @@
 * [중식](./중식/README.md)
 * [일식](./일식/README.md)
 * [분식](./분식/README.md)
+* [퓨전](./퓨전/README.md)
